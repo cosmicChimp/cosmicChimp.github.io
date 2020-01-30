@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Leap of Faith "
-date:       2020-01-30 19:32:12 +0000
+date:       2020-01-30 14:32:13 -0500
 permalink:  a_leap_of_faith
 ---
 
